@@ -1,0 +1,35 @@
+
+body{
+    margin:0;
+    font-family: "orbitron" ,sans-serif;
+    
+    color: white;
+    text-align: center;
+    
+}
+#hero{
+    background-image: url("space.jpg");
+    background-size: cover;
+    padding:4% 0 20% 0;
+}
+.headerfont
+{
+    font-size: 50px;
+    
+    
+}
+button
+{
+color: #7DCAEA;
+font-size: 30px;
+padding: 23px 20px;
+font-family: inherit;
+}
+.terms{
+    font-size: 40px;
+    color: #7DCAEA;
+}
+.border{
+    border-bottom: solid 4px  #7DCAEA;
+}
+
